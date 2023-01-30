@@ -1,0 +1,13 @@
+current directory: /Users/rohitchahal/Desktop/TypeScript/Projects/react-native-skia/example/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/rohitchahal/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/rohitchahal/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20230124-53826-dc4qfe.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rohitchahal/Desktop/TypeScript/Projects/react-native-skia/example/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/rohitchahal/Desktop/TypeScript/Projects/react-native-skia/example/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/rohitchahal/Desktop/TypeScript/Projects/react-native-skia/example/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
